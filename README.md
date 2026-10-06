@@ -220,4 +220,4 @@ Easy Calendar Maker! is available as a complete free version with all features a
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-06 10:54:52 UTC
+**Last updated:** 2026-10-06 16:59:29 UTC
